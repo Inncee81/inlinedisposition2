@@ -4,7 +4,7 @@
   "name": "InlineDisposition2",
   "version": "1.0",
 
-  "description": "Change Content-Disposition headers from 'attachment' to 'inline'.",
+  "description": "Change Content-Disposition headers from 'attachment' to 'inline'. Inspired by https://addons.mozilla.org/en-US/firefox/addon/inlinedisposition/",
   "homepage_url": "https://github.com/KWierso/inlinedisposition2",
 
   "permissions": [
