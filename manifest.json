@@ -5,7 +5,7 @@
   "version": "1.0",
 
   "description": "Change Content-Disposition headers from 'attachment' to 'inline'.",
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+  "homepage_url": "https://github.com/KWierso/inlinedisposition2",
 
   "permissions": [
     "webRequestBlocking", "webRequest", "<all_urls>"
