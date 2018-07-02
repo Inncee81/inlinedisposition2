@@ -1,0 +1,18 @@
+{
+
+  "manifest_version": 2,
+  "name": "InlineDisposition2",
+  "version": "1.0",
+
+  "description": "Change Content-Disposition headers from 'attachment' to 'inline'.",
+  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+
+  "permissions": [
+    "webRequestBlocking", "webRequest", "<all_urls>"
+  ],
+  
+  "background": {
+    "scripts": ["background.js"]
+  }
+
+}
